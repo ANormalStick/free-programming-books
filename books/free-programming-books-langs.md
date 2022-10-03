@@ -292,6 +292,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
 * [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
 * [Open softwear - Fashionable prototyping and wearable computing using the Arduino](https://softwear.cc/book/files/Open_Softwear-beta090712.pdf) - Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund (PDF)
+* [Learning Arduino eBook](https://riptutorial.com/Download/arduino.pdf) - riptutorial.com (PDF)
 
 
 ### ASP.NET
